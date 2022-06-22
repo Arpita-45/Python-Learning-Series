@@ -34,5 +34,5 @@ def game():
             print(result)
         i=i+1
     else:
-        print("!!Only 10 tries.",givencode)
+        print("!!Only 10 tries....play again",givencode)
 game()
